@@ -50,7 +50,7 @@
     "birthDate": "1969-02-11",
     "hairColor": "Blonde",
     "actorName": "Jennifer Aniston",
-    "photoPath": ".https://resize.elle.fr/original/var/plain_site/storage/images/beaute/cheveux/stars/friends-la-coupe-de-cheveux-culte-de-rachel-green-est-de-retour/94927854-1-fre-FR/Friends-la-coupe-de-cheveux-culte-de-Rachel-Green-est-de-retour.jpg",
+    "photoPath": "https://resize.elle.fr/original/var/plain_site/storage/images/beaute/cheveux/stars/friends-la-coupe-de-cheveux-culte-de-rachel-green-est-de-retour/94927854-1-fre-FR/Friends-la-coupe-de-cheveux-culte-de-Rachel-Green-est-de-retour.jpg",
     "video": "https://youtu.be/Q82itikVn44"
 }, {
     "id": 8,
@@ -59,7 +59,7 @@
     "birthDate": "naissance inconnue",
     "hairColor": "Blanc",
     "actorName": "le cannard",
-    "photoPath": "https://static.wikia.nocookie.net/friends/images/b/bd/Duck_Sr.jpg/revision/latest?cb=20200720164742",
+    "photoPath": "https://static.wikia.nocookie.net/friends/images/b/bd/Duck_Sr.jpg",
     "video": "https://youtu.be/QRHQ0Ze23io"
 }, {
     "id": 5,
