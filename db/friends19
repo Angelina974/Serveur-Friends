@@ -1,1 +1,84 @@
-[{"id":1,"name":"Ross Geller","sex":"male","birthDate":"1966-11-02","hairColor":"Brun","actorName":"David Schwimmer","photoPath":"./img/1.jpeg","video":"https://youtu.be/F3UWhpJvBuQ"},{"id":6,"name":"Chandler Bing","sex":"male","birthDate":"1969-08-19","hairColor":"Brun ","actorName":"Matthew Perry","photoPath":"./img/6.jpeg","video":"https://youtu.be/qYa7OfLrkCU"},{"id":2,"name":"Monica Geller","sex":"female","birthDate":"1964-06-15","hairColor":"Brun","actorName":"Courtney Cox","photoPath":"./img/2.jpeg","video":"https://youtu.be/LeSfD3M-4Yo"},{"id":4,"name":"Joey Tribbianni","sex":"male","birthDate":"1967-07-25","hairColor":"Brun","actorName":"Matt LeBlanc","photoPath":"./img/4.jpeg","video":"https://youtu.be/6CHUaxeasEQ"},{"id":7,"name":"The Chick","sex":"male","birthDate":"naissance inconnue","hairColor":"Blanc","actorName":"le poulet","photoPath":"./img/7.jpeg","video":"https://youtu.be/RAOGPDgYy54"},{"id":3,"name":"Rachel Green","sex":"female","birthDate":"1969-02-11","hairColor":"Blonde","actorName":"Jennifer Aniston","photoPath":"./img/3.jpeg","video":"https://youtu.be/Q82itikVn44"},{"id":8,"name":"The Duck","sex":"male","birthDate":"naissance inconnue","hairColor":"Blanc","actorName":"le cannard","photoPath":"./img/8.jpeg","video":"https://youtu.be/QRHQ0Ze23io"},{"id":5,"name":"Phoebe Buffay","sex":"female","birthDate":"1967-02-16","hairColor":"Blonde","actorName":"Lisa Kudrow","photoPath":"./img/5.jpeg","video":"https://youtu.be/ukiD7YyCK9g"}]
+[{
+    "id": 1,
+    "name": "Ross Geller",
+    "sex": "male",
+    "birthDate": "1966-11-02",
+    "hairColor": "Brun",
+    "actorName": "David Schwimmer",
+    "photoPath": "https://staticg.sportskeeda.com/editor/2022/11/3921e-16698242842703-1920.jpg",
+    "video": "https://youtu.be/F3UWhpJvBuQ"
+}, {
+    "id": 6,
+    "name": "Chandler Bing",
+    "sex": "male",
+    "birthDate": "1969-08-19",
+    "hairColor": "Brun ",
+    "actorName": "Matthew Perry",
+    "photoPath": "https://miro.medium.com/v2/resize:fit:1358/0*uOEbv8Jb1WrHEG14.jpg",
+    "video": "https://youtu.be/qYa7OfLrkCU"
+}, {
+    "id": 2,
+    "name": "Monica Geller",
+    "sex": "female",
+    "birthDate": "1964-06-15",
+    "hairColor": "Brun",
+    "actorName": "Courtney Cox",
+    "photoPath": "https://media.glamour.com/photos/6329ebe7756bfb7545c0c97f/master/w_1600%2Cc_limit/138426898",
+    "video": "https://youtu.be/LeSfD3M-4Yo"
+},{
+    "id": 4,
+    "name": "Joey Tribbianni",
+    "sex": "male",
+    "birthDate": "1967-07-25",
+    "hairColor": "Brun",
+    "actorName": "Matt LeBlanc",
+    "photoPath": "https://i.pinimg.com/736x/3b/2c/92/3b2c92a7a4c5fa191f7e3514fd33820e.jpg",
+    "video": "https://youtu.be/6CHUaxeasEQ"
+}, {
+    "id": 7,
+    "name": "The Chick",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Blanc",
+    "actorName": "le poulet",
+    "photoPath": "https://m.media-amazon.com/images/M/MV5BMTk5ODg1YTEtNjRhNy00NTkwLWFlNDAtYTk3YzRmZGU0OWU0XkEyXkFqcGdeQXVyODc0NjQ1MTY@._V1_.jpg",
+    "video": "https://youtu.be/RAOGPDgYy54"
+}, {
+    "id": 3,
+    "name": "Rachel Green",
+    "sex": "female",
+    "birthDate": "1969-02-11",
+    "hairColor": "Blonde",
+    "actorName": "Jennifer Aniston",
+    "photoPath": "https://resize.elle.fr/original/var/plain_site/storage/images/beaute/cheveux/stars/friends-la-coupe-de-cheveux-culte-de-rachel-green-est-de-retour/94927854-1-fre-FR/Friends-la-coupe-de-cheveux-culte-de-Rachel-Green-est-de-retour.jpg",
+    "video": "https://youtu.be/Q82itikVn44"
+}, {
+    "id": 8,
+    "name": "The Duck",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Blanc",
+    "actorName": "le cannard",
+    "photoPath": "https://static.wikia.nocookie.net/friends/images/b/bd/Duck_Sr.jpg",
+    "video": "https://youtu.be/QRHQ0Ze23io"
+}, {
+    "id": 5,
+    "name": "Phoebe Buffay",
+    "sex": "female",
+    "birthDate": "1967-02-16",
+    "hairColor": "Blonde",
+    "actorName": "Lisa Kudrow",
+    "photoPath": "https://www.cryptoseries.fr/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_XL.jpg",
+    "video": "https://youtu.be/ukiD7YyCK9g"
+},
+{
+    "id": 9,
+    "name": "Marcel",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Noir",
+    "actorName": "Le singe de Ross",
+    "photoPath": "https://fr.web.img5.acsta.net/r_1280_720/newsv7/19/08/19/16/13/3895814.jpg",
+    "video": "https://youtu.be/ukiD7YyCK9g"
+}
+]
