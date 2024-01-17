@@ -1,0 +1,28 @@
+[{
+    "id": 7,
+    "name": "The Chick",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Blanc",
+    "actorName": "le poulet",
+    "photoPath": "./img/7.jpeg",
+    "video": "https://youtu.be/RAOGPDgYy54"
+}, {
+    "id": 3,
+    "name": "Rachel Green",
+    "sex": "female",
+    "birthDate": "1969-02-11",
+    "hairColor": "Blonde",
+    "actorName": "Jennifer Aniston",
+    "photoPath": "./img/3.jpeg",
+    "video": "https://youtu.be/Q82itikVn44"
+}, {
+    "id": 8,
+    "name": "The Duck",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Blanc",
+    "actorName": "le cannard",
+    "photoPath": "./img/8.jpeg",
+    "video": "https://youtu.be/QRHQ0Ze23io"
+}]
