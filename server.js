@@ -12,11 +12,11 @@ app.use("/img", serveStatic(__dirname + "/img"))
 const controllers = require("./controllers")
 
 // Routes
-app.get('/friends', controllers.getFriends)
-app.get('/allFriends', controllers.getAllFriends)
+app.get('/friendsByAppartment', controllers.getFriends)
 app.get('/switchAppartment/:friendName', controllers.switchAppartment)
 
 // Routes pour l'API CRUD
+app.get('/friends', controllers.getAllFriends)
 app.post('/friends', controllers.addFriend)
 app.get('/friends/:name', controllers.getFriend)
 app.put('/friends/:name', controllers.updateFriend)
