@@ -126,6 +126,14 @@ function deleteFriend(req, res) {
     res.json(friend)
 }
 
+function reset (req,res){
+    const friends19 = JSON.parse(localStorage.getItem('friends'))
+    localStorage.setItem("friends19", JSON.stringify(friends19))
+    localStorage.setItem("friends20", JSON.stringify([]))
+    
+    res.json(friends19)
+}
+
 module.exports = {
     getFriends,
     getAllFriends,
@@ -133,5 +141,6 @@ module.exports = {
     getFriend,
     addFriend,
     updateFriend,
-    deleteFriend
+    deleteFriend,
+    reset
 }

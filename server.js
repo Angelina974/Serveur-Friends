@@ -21,6 +21,7 @@ app.post('/friends', controllers.addFriend)
 app.get('/friends/:name', controllers.getFriend)
 app.put('/friends/:name', controllers.updateFriend)
 app.delete('/friends/:name', controllers.deleteFriend)
+app.get('/reset', controllers.reset)
 
 
 // Start NodeJS server on port 3000

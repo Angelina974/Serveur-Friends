@@ -1,4 +1,31 @@
 [{
+    "id": 1,
+    "name": "Ross Geller",
+    "sex": "male",
+    "birthDate": "1966-11-02",
+    "hairColor": "Brun",
+    "actorName": "David Schwimmer",
+    "photoPath": "./img/1.jpeg",
+    "video": "https://youtu.be/F3UWhpJvBuQ"
+}, {
+    "id": 6,
+    "name": "Chandler Bing",
+    "sex": "male",
+    "birthDate": "1969-08-19",
+    "hairColor": "Brun ",
+    "actorName": "Matthew Perry",
+    "photoPath": "./img/6.jpeg",
+    "video": "https://youtu.be/qYa7OfLrkCU"
+}, {
+    "id": 2,
+    "name": "Monica Geller",
+    "sex": "female",
+    "birthDate": "1964-06-15",
+    "hairColor": "Brun",
+    "actorName": "Courtney Cox",
+    "photoPath": "./img/2.jpeg",
+    "video": "https://youtu.be/LeSfD3M-4Yo"
+},{
     "id": 4,
     "name": "Joey Tribbianni",
     "sex": "male",
@@ -43,5 +70,5 @@
     "actorName": "Lisa Kudrow",
     "photoPath": "./img/5.jpeg",
     "video": "https://youtu.be/ukiD7YyCK9g"
-} 
+}
 ]
