@@ -18,9 +18,9 @@ app.get('/switchAppartment/:friendName', controllers.switchAppartment)
 // Routes pour l'API CRUD
 app.get('/friends', controllers.getAllFriends)
 app.post('/friends', controllers.addFriend)
-app.get('/friends/:name', controllers.getFriend)
-app.put('/friends/:name', controllers.updateFriend)
-app.delete('/friends/:name', controllers.deleteFriend)
+app.get('/friends/:id', controllers.getFriend)
+app.put('/friends/:id', controllers.updateFriend)
+app.delete('/friends/:id', controllers.deleteFriend)
 app.get('/reset', controllers.reset)
 
 

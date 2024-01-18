@@ -69,13 +69,13 @@ function switchAppartment(req, res) {
 
 // Get friend
 function getFriend(req, res) {
-    const friendName = req.params.name;
+    const id = req.params.id;
     const friends19 = JSON.parse(localStorage.getItem('friends19'))
     const friends20 = JSON.parse(localStorage.getItem('friends20'))
 
-    let friend = tools.findFriend(friendName, friends19)
+    let friend = tools.findFriend(id, friends19)
     if (friend == undefined) {
-        friend = tools.findFriend(friendName, friends20)
+        friend = tools.findFriend(id, friends20)
     }
 
     res.json(friend)
@@ -90,12 +90,12 @@ function addFriend(req, res) {
 }
 
 function updateFriend(req, res) {
-    const friendName = req.params.name;
+    const friendId = req.params.id;
     const updatedFriend = req.body;
     const friends19 = JSON.parse(localStorage.getItem('friends19'))
     const friends20 = JSON.parse(localStorage.getItem('friends20'))
     
-    let friend = tools.findFriend(friendName, friends19)
+    let friend = tools.findFriend(friendId, friends19)
     if (friend == undefined) {
         const updatedFriends = tools.updateFriend(updatedFriend, friends20)
         localStorage.setItem("friends20", JSON.stringify(updatedFriends))
@@ -109,17 +109,17 @@ function updateFriend(req, res) {
 }
 
 function deleteFriend(req, res) {
-    const friendName = req.params.name;
+    const friendId = req.params.id;
     let friends19 = JSON.parse(localStorage.getItem('friends19'))
     let friends20 = JSON.parse(localStorage.getItem('friends20'))
 
-    let friend = tools.findFriend(friendName, friends19)
+    let friend = tools.findFriend(friendId, friends19)
     if (friend == undefined) {
-        friends20 = tools.removeFriendFromAppartment(friendName, friends20)
+        friends20 = tools.removeFriendFromAppartment(friendId, friends20)
         localStorage.setItem("friends20", JSON.stringify(friends20))
     }
     else {
-        friends19 = tools.removeFriendFromAppartment(friendName, friends19)
+        friends19 = tools.removeFriendFromAppartment(friendId, friends19)
         localStorage.setItem("friends19", JSON.stringify(friends19))
     }
 
