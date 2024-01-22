@@ -1,1 +1,94 @@
-[{"id":6,"name":"Chandler Bing","sex":"male","birthDate":"1969-08-19","hairColor":"Brun ","actorName":"Matthew Perry","photoPath":"https://miro.medium.com/v2/resize:fit:1358/0*uOEbv8Jb1WrHEG14.jpg","video":"https://youtu.be/qYa7OfLrkCU"},{"id":2,"name":"Monica Geller","sex":"female","birthDate":"1964-06-15","hairColor":"Brun","actorName":"Courtney Cox","photoPath":"https://media.glamour.com/photos/6329ebe7756bfb7545c0c97f/master/w_1600%2Cc_limit/138426898","video":"https://youtu.be/LeSfD3M-4Yo"},{"id":4,"name":"Joey Tribbianni","sex":"male","birthDate":"1967-07-25","hairColor":"Brun","actorName":"Matt LeBlanc","photoPath":"https://i.pinimg.com/736x/3b/2c/92/3b2c92a7a4c5fa191f7e3514fd33820e.jpg","video":"https://youtu.be/6CHUaxeasEQ"},{"id":7,"name":"The Chick","sex":"male","birthDate":"naissance inconnue","hairColor":"Blanc","actorName":"le poulet","photoPath":"https://m.media-amazon.com/images/M/MV5BMTk5ODg1YTEtNjRhNy00NTkwLWFlNDAtYTk3YzRmZGU0OWU0XkEyXkFqcGdeQXVyODc0NjQ1MTY@._V1_.jpg","video":"https://youtu.be/RAOGPDgYy54"},{"id":3,"name":"Rachel Green","sex":"female","birthDate":"1969-02-11","hairColor":"Blonde","actorName":"Jennifer Aniston","photoPath":"https://resize.elle.fr/original/var/plain_site/storage/images/beaute/cheveux/stars/friends-la-coupe-de-cheveux-culte-de-rachel-green-est-de-retour/94927854-1-fre-FR/Friends-la-coupe-de-cheveux-culte-de-Rachel-Green-est-de-retour.jpg","video":"https://youtu.be/Q82itikVn44"},{"id":8,"name":"The Duck","sex":"male","birthDate":"naissance inconnue","hairColor":"Blanc","actorName":"le cannard","photoPath":"./img/8.jpeg","video":"https://youtu.be/QRHQ0Ze23io"},{"id":5,"name":"Phoebe Buffay","sex":"female","birthDate":"1967-02-16","hairColor":"Blonde","actorName":"Lisa Kudrow","photoPath":"https://www.cryptoseries.fr/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_XL.jpg","video":"https://youtu.be/ukiD7YyCK9g"},{"id":9,"name":"Marcel","sex":"male","birthDate":"naissance inconnue","hairColor":"Noir","actorName":"Le singe de Ross","photoPath":"https://fr.web.img5.acsta.net/r_1280_720/newsv7/19/08/19/16/13/3895814.jpg","video":"https://youtu.be/ukiD7YyCK9g"}]
+[{
+    "id": 1,
+    "name": "Ross Geller",
+    "sex": "male",
+    "birthDate": "1966-11-02",
+    "hairColor": "Brun",
+    "actorName": "David Schwimmer",
+    "photoPath": "https://staticg.sportskeeda.com/editor/2022/11/3921e-16698242842703-1920.jpg",
+    "video": "https://youtu.be/F3UWhpJvBuQ",
+    "description": "Ross Geller est un personnage de fiction de la série télévisée Friends, interprété par David Schwimmer et doublé en version française par Patrick Mancini. Il est le frère de Monica Geller et le meilleur ami de Chandler Bing, Joey Tribbiani et Rachel Green. Il est paléontologue et travaille au musée d'histoire naturelle de New York. Il est également connu pour ses trois divorces et son mariage avec Rachel Green, la sœur de sa meilleure amie Monica Geller. Il est le père de Ben Geller, Emma Geller-Green et de la petite dernière, la fille de Rachel et lui, dont le nom n'est pas connu. Il est le fils de Jack et Judy Geller. Il est né le 18 octobre 1967. Il est juif et a grandi dans le quartier de Long Island à New York."
+}, {
+    "id": 6,
+    "name": "Chandler Bing",
+    "sex": "male",
+    "birthDate": "1969-08-19",
+    "hairColor": "Brun ",
+    "actorName": "Matthew Perry",
+    "photoPath": "https://miro.medium.com/v2/resize:fit:1358/0*uOEbv8Jb1WrHEG14.jpg",
+    "video": "https://youtu.be/qYa7OfLrkCU",
+    "description": "Chandler Bing est un personnage de fiction de la série télévisée Friends, interprété par Matthew Perry et doublé en version française par Boris Rehlinger. Il est le meilleur ami de Joey Tribbiani, Ross Geller, Rachel Green et Monica Geller. Il est né le 8 avril 1968. Il est le fils de Nora Tyler Bing et Charles Bing. Il est juif par sa mère et écossais par son père. Il est né à Westchester, dans l'État de New York. Il a une sœur, Gina, qui est lesbienne. Chandler est un personnage qui a beaucoup de mal à exprimer ses sentiments. Il est très ironique et sarcastique. Il est également connu pour son humour et ses blagues. Il est très intelligent et a un travail qui lui plaît. Il est analyste informatique dans une grande entreprise. Il est également connu pour sa relation avec Monica Geller, la sœur de son meilleur ami Ross Geller. Chandler et Monica se sont mariés et ont adopté des jumeaux, Jack et Erica Bing."
+}, {
+    "id": 2,
+    "name": "Monica Geller",
+    "sex": "female",
+    "birthDate": "1964-06-15",
+    "hairColor": "Brun",
+    "actorName": "Courtney Cox",
+    "photoPath": "https://media.glamour.com/photos/6329ebe7756bfb7545c0c97f/master/w_1600%2Cc_limit/138426898",
+    "video": "https://youtu.be/LeSfD3M-4Yo",
+    "description": "Monica Geller est un personnage de fiction de la série télévisée Friends, interprété par Courteney Cox et doublé en version française par Véronique Augereau. Elle est la sœur de Ross Geller et la meilleure amie de Rachel Green, Phoebe Buffay, Joey Tribbiani et Chandler Bing. Elle est née le 22 avril 1969. Elle est la fille de Jack et Judy Geller. Elle est juive. Elle a grandi dans le quartier de Long Island à New York. Elle est connue pour son côté maniaque et obsessionnel. Elle est également connue pour son mariage avec Chandler Bing, le meilleur ami de son frère Ross Geller. Elle est chef cuisinière dans un restaurant. Elle est très compétitive et a un fort caractère. Elle est très protectrice envers ses amis et sa famille. Elle est également connue pour son amour pour le ménage et le rangement. Elle est très organisée et a un côté maniaque. Elle est également connue pour son amour pour la cuisine et la nourriture. Elle est très compétitive et a un fort caractère. Elle est très protectrice envers ses amis et sa famille. Elle est également connue pour son amour pour le ménage et le rangement."
+}, {
+    "id": 4,
+    "name": "Joey Tribbianni",
+    "sex": "male",
+    "birthDate": "1967-07-25",
+    "hairColor": "Brun",
+    "actorName": "Matt LeBlanc",
+    "photoPath": "https://i.pinimg.com/736x/3b/2c/92/3b2c92a7a4c5fa191f7e3514fd33820e.jpg",
+    "video": "https://youtu.be/6CHUaxeasEQ",
+    "description": "Joey Tribbianni est un personnage de fiction de la série télévisée Friends, interprété par Matt LeBlanc et doublé en version française par Thierry Wermuth. Il est le meilleur ami de Chandler Bing, Ross Geller, Rachel Green et Monica Geller. Il est né le 9 janvier 1968. Il est le fils de Joseph Tribbiani Sr. et Gloria Tribbiani. Il est italien et a grandi dans le quartier de Queens à New York. Il est connu pour son côté dragueur et son amour pour les femmes. Il est acteur et a joué dans plusieurs films et séries télévisées. Il est également connu pour son rôle dans la série télévisée Les Jours de notre vie. Il est également connu pour son rôle dans la série télévisée Mac et C.H.E.E.S.E."
+}, {
+    "id": 7,
+    "name": "The Chick",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Blanc",
+    "actorName": "le poulet",
+    "photoPath": "https://m.media-amazon.com/images/M/MV5BMTk5ODg1YTEtNjRhNy00NTkwLWFlNDAtYTk3YzRmZGU0OWU0XkEyXkFqcGdeQXVyODc0NjQ1MTY@._V1_.jpg",
+    "video": "https://youtu.be/RAOGPDgYy54",
+    "description": "Le poulet est un personnage de la série télévisée Friends. Il est le compagnon de Joey Tribbiani et de Chandler Bing."
+}, {
+    "id": 3,
+    "name": "Rachel Green",
+    "sex": "female",
+    "birthDate": "1969-02-11",
+    "hairColor": "Blonde",
+    "actorName": "Jennifer Aniston",
+    "photoPath": "https://resize.elle.fr/original/var/plain_site/storage/images/beaute/cheveux/stars/friends-la-coupe-de-cheveux-culte-de-rachel-green-est-de-retour/94927854-1-fre-FR/Friends-la-coupe-de-cheveux-culte-de-Rachel-Green-est-de-retour.jpg",
+    "video": "https://youtu.be/Q82itikVn44",
+    "description": "Rachel Green est un personnage de fiction de la série télévisée Friends, interprété par Jennifer Aniston et doublé en version française par Dorothée Jemma. Elle est la meilleure amie de Monica Geller, Phoebe Buffay, Joey Tribbiani, Chandler Bing et Ross Geller. Elle est née le 5 mai 1969. Elle est la fille de Leonard et Sandra Green. Elle a grandi dans le quartier de Long Island à New York. Elle est connue pour son côté superficiel et matérialiste. Elle est également connue pour son mariage avec Ross Geller, le frère de sa meilleure amie Monica Geller. Elle est styliste dans une grande entreprise. Elle est très compétitive et a un fort caractère. Elle est très protectrice envers ses amis et sa famille. Elle est également connue pour son amour pour la mode et les vêtements. Elle est également connue pour son amour pour la mode et les vêtements."
+}, {
+    "id": 8,
+    "name": "The Duck",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Blanc",
+    "actorName": "le cannard",
+    "photoPath": "https://static.wikia.nocookie.net/friends/images/b/bd/Duck_Sr.jpg",
+    "video": "https://youtu.be/QRHQ0Ze23io",
+    "description": "Le canard est un personnage de la série télévisée Friends. Il est le compagnon de Joey Tribbiani et de Chandler Bing."
+}, {
+    "id": 5,
+    "name": "Phoebe Buffay",
+    "sex": "female",
+    "birthDate": "1967-02-16",
+    "hairColor": "Blonde",
+    "actorName": "Lisa Kudrow",
+    "photoPath": "https://www.cryptoseries.fr/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_XL.jpg",
+    "video": "https://youtu.be/ukiD7YyCK9g",
+    "description": "Phoebe Buffay est un personnage de fiction de la série télévisée Friends, interprété par Lisa Kudrow et doublé en version française par Rafaèle Moutier. Elle est la meilleure amie de Monica Geller, Rachel Green, Joey Tribbiani, Chandler Bing et Ross Geller. Elle est née le 16 février 1967. Elle est la fille de Frank Buffay Sr. et Lily Buffay. Elle a grandi dans le quartier de Long Island à New York. Elle est connue pour son côté excentrique et déjanté. Elle est également connue pour son mariage avec Mike Hannigan, le frère de son meilleur ami Joey Tribbiani. Elle est masseuse dans un grand hôtel. Elle est également connue pour son amour pour la musique et la chanson."
+    
+},
+{
+    "id": 9,
+    "name": "Marcel",
+    "sex": "male",
+    "birthDate": "naissance inconnue",
+    "hairColor": "Noir",
+    "actorName": "Le singe de Ross",
+    "photoPath": "https://fr.web.img5.acsta.net/r_1280_720/newsv7/19/08/19/16/13/3895814.jpg",
+    "video": "https://youtu.be/ukiD7YyCK9g",
+    "description": "Marcel est un personnage de la série télévisée Friends. Il est le compagnon de Ross Geller et c'est un singe !"
+}
+]
